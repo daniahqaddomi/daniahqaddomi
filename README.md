@@ -19,7 +19,7 @@ Currently a **Software Engineering Trainee at 42 Amman**, working on low-level p
 
 ## 🔗 Featured Projects
 - [Philosophers](https://github.com/daniahqaddomi/philosophers) – Multithreading and concurrency simulation in C.  
-- [ft_printf](https://github.com/daniahqaddomi/ft_printf) – Custom implementation of the C `printf` function.  
+- [pipex](https://github.com/daniahqaddomi/pipex) –  simulates the behavior of a shell pipeline.  
 
 ## 📬 Contact
 - Email: **daniahqaddomi0@gmail.com*  
